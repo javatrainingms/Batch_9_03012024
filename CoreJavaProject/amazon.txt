@@ -1,0 +1,6 @@
+step 1. item selected 
+step 2. added into cart 
+step 3. go to payment 
+step 4. pay the money
+step 5. order was dispatched
+step 6.deliveried to home 
